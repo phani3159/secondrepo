@@ -14,5 +14,5 @@ post {
   always {
      archive 'dist/*.jar'
   }
-}
+ }
 }
